@@ -25,21 +25,9 @@ Capstone-Project/
 │   └── database/
 │
 └── documents/
-    ├── ideas/
-    │   ├── templates/
-    │   ├── proposals/
-    │   ├── brainstorming/
-    │   └── market_research/
-    │
-    ├── planning/
-    │
-    ├── meetings/
-    │   ├── templates/
-    │   └── logs/
-    │
-    ├── reports/
-    │   ├── midterm/
-    │   └── final/
-    │
-    └── references/
+    ├── ideas/                          # 아이디어 제안서 (4-Page PDF)
+    ├── planning/                       # 기획 및 설계 문서
+    ├── meetings/                       # 회의록
+    ├── reports/                        # 보고서 및 발표자료
+    └── reference/                      # 참고자료 및 레퍼런스
 ```
